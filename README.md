@@ -1,7 +1,7 @@
 # buzzbane-deltarune
 All current acapellas by Buzzbane.
 
-# Use:
+# How to use:
 1. Download the ZIP folder by clicking Code, then Download as ZIP
 2. Unzip the folder.
 3. Open the acapellas folder.
